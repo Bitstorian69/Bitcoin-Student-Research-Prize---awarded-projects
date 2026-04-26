@@ -8,3 +8,5 @@ Stay tuned to this Github for future Calls for submissions.
 Bitcoin Review of Books  - https://bitcoinbooks.review/
 
 Bitcoin Research Institute  - https://www.uwyo.edu/philrelig/bitcoin.html
+
+BTC Donations @bc1q4pk2zwfevt7udya56x2thgdjzfgt3fyhxd4w6y
