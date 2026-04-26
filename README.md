@@ -6,4 +6,5 @@ All of the general work in this repository, including datasets and figures, is p
 Stay tuned to this Github for future Calls for submissions. 
 
 Bitcoin Review of Books  - https://bitcoinbooks.review/
+
 Bitcoin Research Institute  - https://www.uwyo.edu/philrelig/bitcoin.html
